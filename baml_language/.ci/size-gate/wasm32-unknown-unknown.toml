@@ -1,7 +1,7 @@
 version = 1
-recorded_at = "2026-06-27T09:59:43Z"
-git_sha = "18e49eefcbac896307c61050a78fb595d7fc79f4"
+recorded_at = "2026-07-01T10:35:09Z"
+git_sha = "424b87b058b26cd96a1b6073936b886379d9a27a"
 
 [artifacts.bridge_wasm]
-file_bytes = 14320322
-gzip_bytes = 4058961
+file_bytes = 14371556
+gzip_bytes = 4072849
